@@ -1,0 +1,10 @@
+/target
+**/*.rs.bk
+
+# Node / frontend
+node_modules/
+dist/
+*.local
+
+# Tauri
+/src-tauri/target/
