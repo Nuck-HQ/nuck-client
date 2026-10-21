@@ -26,7 +26,7 @@ against the server.
 - Depends on the protocol crate:
 
   ```toml
-  nuck-protocol = { git = "https://github.com/nuck-hq/nuck-protocol.git", tag = "v0.1.0" }
+  nuck-protocol = { git = "https://github.com/nuck-hq/nuck-protocol.git", tag = "v0.2.0" }
   ```
 
 The design record — ADRs, glossary, and the concrete `space.nuck.*` event registry
